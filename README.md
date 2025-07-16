@@ -1,11 +1,11 @@
 # Aloha
 
 Experiments & demos with **LeRobot Aloha** robot arm  
-Based on **Xuanya hardware**
+
 ## 🖥️ 系统信息
 - **Operating System**: Ubuntu 20.04 (via Windows WSL)
 - **GPU**: NVIDIA GeForce RTX 4060, Driver Version 576.52, CUDA 12.9
-- **Hardware**: Logitech C920 Webcam
+- **Hardware**: Logitech C920 Webcam, Xuanya hardware robotic arm
 
 ## 📦 Features
 - Simulation & real-world control
