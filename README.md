@@ -2,6 +2,9 @@
 
 Experiments & demos with **LeRobot Aloha** robot arm  
 Based on **Xuanya hardware**
+## 🖥️ 系统信息
+- **Operating System**: Ubuntu 20.04 (via Windows WSL)
+- **GPU**: NVIDIA GeForce RTX 4060, Driver Version 576.52, CUDA 12.9
 
 ## 📦 Features
 - Simulation & real-world control
