@@ -22,7 +22,7 @@ Experiments & demos with **LeRobot Aloha** robot arm
   python scripts/camera_setup.py
 
 
-
+# 🧪 AutoDL Training Setup
 ## 🛠 Installation
 ```bash
 git clone https://github.com/yourusername/aloha-project.git
@@ -30,12 +30,8 @@ cd aloha-project
 # install dependencies etc.
 
 
-
- 
- 
-
 ````markdown
-## 🧪 AutoDL Training Setup
+#
 
 This section documents the training environment setup and execution on the **AutoDL platform**, including conda environment setup, code installation, Hugging Face integration, and training script usage.
 
