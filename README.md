@@ -31,9 +31,8 @@ cd aloha-project
 
 
 
-太好了，你给的内容已经非常清晰了，我将它整理成 **GitHub README 标准范式** 的英文版，包括了结构清晰的标题、代码块、说明和备注等，方便他人理解和使用：
-
----
+ 
+ 
 
 ````markdown
 ## 🧪 AutoDL Training Setup
@@ -197,14 +196,7 @@ python dp_inference.py
 
 ---
 
-这个格式已经是标准 GitHub 工程笔记风格了：
-
-✅ 各部分清晰分段  
-✅ 命令用代码块标识  
-✅ 含有提示 / 警告语（使用 > 标记）  
-✅ 可直接复制粘贴运行  
-
-如果你想，我也可以帮你把这段内容加进你完整 README 的一个章节，比如叫 `## 🧪 AutoDL Training Notes`。只需告诉我你想插入的位置即可。
+ ## 🧪 AutoDL Training Notes
 ```
 
 
